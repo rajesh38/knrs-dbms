@@ -1,0 +1,4 @@
+name->char->20
+address->char->50
+phoneno->number->10
+email->char->40
